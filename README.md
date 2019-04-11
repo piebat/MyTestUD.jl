@@ -1,6 +1,4 @@
 # MyTestUD.jl
-# MyTestUD.jl
-# MyTestUD.jl
 
 Ciao
 =======
@@ -12,8 +10,8 @@ Ciao
 [docs-dev-url]: https://github.com/piebat/MyTestUD.jl/dev
 [docs-stable-url]: https://github.com/piebat/MyTestUD.jl/stable
 
-[travis-img]: https://travis-ci.org/piebat/MyTestUD.jl.svg?branch=master
-[travis-url]: https://travis-ci.org/piebat/MyTestUD.jl.git
+[travis-img]: https://travis-ci.org/pszufe/SimpleHypergraphs.jl.svg?branch=master
+[travis-url]: https://travis-ci.org/piebat/MyTestUD.jl
 
 - [**STABLE**][docs-stable-url] &mdash; **documentation of the most recently tagged version.**
 - [**DEV**][docs-dev-url] &mdash; **documentation of the development version.**
