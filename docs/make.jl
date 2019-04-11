@@ -3,7 +3,7 @@ using MyTestUD
 
 makedocs(
     sitename = "MyTestUD",
-    format = :html,
+    format = format = Documenter.HTML(),
     modules = [MyTestUD]
 )
 
