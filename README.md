@@ -12,5 +12,5 @@ Ciao
 [docs-dev-url]: https://github.com/piebat/MyTestUD.jl/dev
 [docs-stable-url]: https://github.com/piebat/MyTestUD.jl/stable
 
-[travis-img]: https://github.com/piebat/MyTestUD.jl.svg?branch=master
-[travis-url]: https://github.com/piebat/MyTestUD.jl.git
+[travis-img]: https://travis-ci.org/piebat/MyTestUD.jl.svg?branch=master
+[travis-url]: https://travis-ci.org/piebat/MyTestUD.jl.git
