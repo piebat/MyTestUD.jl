@@ -14,3 +14,6 @@ Ciao
 
 [travis-img]: https://travis-ci.org/piebat/MyTestUD.jl.svg?branch=master
 [travis-url]: https://travis-ci.org/piebat/MyTestUD.jl.git
+
+- [**STABLE**][docs-stable-url] &mdash; **documentation of the most recently tagged version.**
+- [**DEV**][docs-dev-url] &mdash; **documentation of the development version.**
