@@ -12,5 +12,5 @@ Ciao
 
 [docs-latest-img]: https://img.shields.io/badge/docs-latest-blue.svg
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-dev-url]: https://piebat.github.io/MyTestUD.jl/dev
-[docs-stable-url]: https://piebat.github.io/MyTestUD.jl/stable
+[docs-dev-url]: https://github.com/piebat/MyTestUD.jl/tree/gh-pages/dev
+[docs-stable-url]: https://github.com/piebat/MyTestUD.jl/tree/gh-pages/stable
